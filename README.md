@@ -1,5 +1,7 @@
 # 🧪 Apache JMeter Employee API Load Test
+### 📸 Sample HTML Report Screenshot:
 
+![Sample Report](./jmeter.png)
 This project demonstrates how to use **Apache JMeter** to test a **REST API** for performance and generate an HTML report. The API used is a public dummy API:
 
 🔗 [https://dummy.restapiexample.com/]
@@ -108,9 +110,7 @@ After running your JMeter test, you can generate a beautiful and detailed HTML r
    - APDEX score
    - Graphs, tables, and performance metrics
 
-### 📸 Sample HTML Report Screenshot:
 
-![Sample Report](./175f290c-4a06-4761-9d2a-82d4c16a88c2.png)
 
 
 
